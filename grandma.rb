@@ -6,7 +6,11 @@ def speak_to_grandma(str)
   elsif (str === "I LOVE YOU GRANDMA!")
     return "I LOVE YOU TOO PUMPKIN!"
   else
+<<<<<<< HEAD
     return "NO, NOT SINCE 1938!"
+=======
+    return "YES INDEED!"
+>>>>>>> 34032287ea139e81ba3c7cbadd8f3d940ff12d00
   end
 end
 # Whatever you say to grandma, she should respond with
